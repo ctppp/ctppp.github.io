@@ -8,7 +8,7 @@ research include:
 * providing useful data and analysis that can assist other COVID-19-related research.
 * supporting Connecticut journalists and local news organizations reporting on the PPP.
 
-### Datasets
+### Data
 
 CT PPP data (cleaned) for loan approvals through June 30, 2020.
 
@@ -16,9 +16,9 @@ CT PPP data (cleaned) for loan approvals through June 30, 2020.
 2. Connecticut loans \<$150K, [json](https://github.com/ctppp/research/blob/master/data/ctppp_small_063020.json?raw=true), [csv](https://github.com/ctppp/research/blob/master/data/ctppp_small_063020.csv?raw=true)
 3. Anonymized composite data, [json](https://github.com/ctppp/research/blob/master/data/ctppp_total_063020.json?raw=true), [csv](https://github.com/ctppp/research/blob/master/data/ctppp_total_063020.csv?raw=true)
 
-### Reports
+### Analysis
 
-PPP Summary for Connecticut, [pdf]()
+PPP Summary for Connecticut, [pdf](https://github.com/ctppp/research/blob/master/report/CT_PPP_summary.pdf?raw=true)
 
 ### Tools
 
