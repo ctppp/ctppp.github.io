@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+### Objective
 
-You can use the [editor on GitHub](https://github.com/ctppp/ctppp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The CT PPP Project studies the Payment Protection Program (PPP) in Connecticut. The goals of this
+research include:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* informing policy related to the PPP and other programs for Connecticut small business.
+* helping Connecticut residents better understand the scope of PPP lending in the state.
+* providing useful data and analysis that can assist other COVID-19-related research.
+* supporting Connecticut journalists and local news organizations reporting on the PPP.
 
-### Markdown
+### Datasets
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CT PPP data (cleaned) for loan approvals through June 30, 2020.
 
-```markdown
-Syntax highlighted code block
+1. Connecticut loans \>$150K, [json](https://github.com/ctppp/research/blob/master/data/ctppp_large_063020.json?raw=true), [csv](https://github.com/ctppp/research/blob/master/data/ctppp_large_063020.csv?raw=true)
+2. Connecticut loans \<$150K, [json](https://github.com/ctppp/research/blob/master/data/ctppp_small_063020.json?raw=true), [csv](https://github.com/ctppp/research/blob/master/data/ctppp_small_063020.csv?raw=true)
+3. Anonymized composite data, [json](https://github.com/ctppp/research/blob/master/data/ctppp_total_063020.json?raw=true), [csv](https://github.com/ctppp/research/blob/master/data/ctppp_total_063020.csv?raw=true)
 
-# Header 1
-## Header 2
-### Header 3
+### Reports
 
-- Bulleted
-- List
+PPP Summary for Connecticut, [pdf]()
 
-1. Numbered
-2. List
+### Tools
 
-**Bold** and _Italic_ and `Code` text
+Example Jupyter notebooks for analyzing the CT PPP on your own computer or using Google Colab. Installing [Anaconda](https://www.anaconda.com/products/individual)
+is recommended when using these notebooks locally. Google Colab requires no setup and runs entirely in the cloud.
 
-[Link](url) and ![Image](src)
-```
+1. Load data from the \>$150K, \<$150K, and composite json files for analysis, [notebook](https://github.com/ctppp/research/blob/master/notebook/ctppp_notebook_load.ipynb), [colab](https://githubtocolab.com/ctppp/research/blob/master/notebook/ctppp_notebook_load.ipynb)
+2. Plot graphs that illustrate static and dynamic variables in the CT PPP data, [notebook](https://github.com/ctppp/research/blob/master/notebook/ctppp_notebook_plot.ipynb), [colab](https://githubtocolab.com/ctppp/research/blob/master/notebook/ctppp_notebook_plot.ipynb)
+3. Create maps that contain zip code-level information for Connecticut, [notebook](https://github.com/ctppp/research/blob/master/notebook/ctppp_notebook_map.ipynb), [colab](https://githubtocolab.com/ctppp/research/blob/master/notebook/ctppp_notebook_map.ipynb)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Support
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ctppp/ctppp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+See the [repository](https://github.com/ctppp/research/) for additional data and follow the [project](https://twitter.com/ctppp_project) on
+Twitter for updates.
