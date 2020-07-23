@@ -18,7 +18,7 @@ CT PPP data (cleaned) for loan approvals through June 30, 2020.
 
 ### Analysis
 
-PPP Summary for Connecticut, [pdf](https://github.com/ctppp/research/blob/master/report/CT_PPP_summary.pdf?raw=true)
+PPP Summary for Connecticut, [pdf](https://github.com/ctppp/research/blob/master/report/CT_PPP_summary.pdf)
 
 ### Tools
 
