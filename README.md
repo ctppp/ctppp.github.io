@@ -12,9 +12,9 @@ research include:
 
 CT PPP data (cleaned) for loan approvals through June 30, 2020.
 
-1. Connecticut loans \>$150K, [json](https://github.com/ctppp/research/blob/master/data/ctppp_large_063020.json?raw=true), [csv](https://github.com/ctppp/research/blob/master/data/ctppp_large_063020.csv?raw=true)
-2. Connecticut loans \<$150K, [json](https://github.com/ctppp/research/blob/master/data/ctppp_small_063020.json?raw=true), [csv](https://github.com/ctppp/research/blob/master/data/ctppp_small_063020.csv?raw=true)
-3. Anonymized composite data, [json](https://github.com/ctppp/research/blob/master/data/ctppp_total_063020.json?raw=true), [csv](https://github.com/ctppp/research/blob/master/data/ctppp_total_063020.csv?raw=true)
+1. Connecticut loans \>$150K, [json](https://github.com/ctppp/research/blob/master/data/ctppp_large_063020.json), [csv](https://github.com/ctppp/research/blob/master/data/ctppp_large_063020.csv)
+2. Connecticut loans \<$150K, [json](https://github.com/ctppp/research/blob/master/data/ctppp_small_063020.json), [csv](https://github.com/ctppp/research/blob/master/data/ctppp_small_063020.csv)
+3. Anonymized composite data, [json](https://github.com/ctppp/research/blob/master/data/ctppp_total_063020.json), [csv](https://github.com/ctppp/research/blob/master/data/ctppp_total_063020.csv)
 
 ### Analysis
 
